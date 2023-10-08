@@ -4,19 +4,22 @@ I'm a developer in the making with a passion for front end design but also just 
 I like to experiment with code as much as I can in order to learn new ways to interact with it.<br>
 
 When I'm not coding, I will either be drawing/painting or playing video games, the latter of which inspired some of my projects.<br>
-
+<br>
 - 🔭 I’m currently working on: My first full-stack web app
 - 🌱 I’m currently learning: Back-end Development
-
+<br>
+<br>
 
  [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
-
+<br>
+<br>
  
 Languages and tools I use 🧚🏾‍♀️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height ="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = "60" height ="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width = "60" height = "60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "60" height = "60"/>
 
-
+<br>
+<br>
 
 
 <img src="https://myreadme.vercel.app/api/embed/Selamkd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
