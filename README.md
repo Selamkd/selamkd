@@ -1,5 +1,8 @@
 # Hi there I'm Selam 
-I'm an aspiring developer with a passion for front-end design.
+I'm a developer in the making with a passion for front end design but also just coding in general! 
+I like to push the boundaries and experiment with code as much as I can in order to learn new ways to interact with it.
+When I'm not coding, I will either be drawing/painting or playing video games, the latter of which inspired some of my projects.
+
 - 🔭 I’m currently working on: My first full-stack web app
 - 🌱 I’m currently learning: Back-end Development
 
