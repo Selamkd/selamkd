@@ -1,4 +1,4 @@
-# Hi there I'm selam 
+# Hi there I'm Selam 
 I'm an aspiring developer with a passion for front-end design.
 - 🔭 I’m currently working on: My first full-stack web app
 - 🌱 I’m currently learning: Back-end Development
