@@ -8,7 +8,7 @@ When I'm not coding, I will either be drawing/painting or playing video games, t
 - 🔭 I’m currently working on: My first full-stack web app
 - 🌱 I’m currently learning: Back-end Development
 <br>
-<br>
+
 
  [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
 <br>
