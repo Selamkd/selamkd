@@ -1,4 +1,4 @@
-# Hi there👋🏾, I'm selam 🧝🏾‍♀️
+# Hi there I'm selam 🧝🏾‍♀️
 I'm an aspiring developer with a passion for front-end design.
 - 🔭 I’m currently working on: My first full-stack web app
 - 🌱 I’m currently learning: Back-end Development
@@ -13,7 +13,7 @@ Languages and tools I use 🧚🏾‍♀️
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Selamkd&theme=tokyonight" alt="mystreak"/>
+
 <img src="https://myreadme.vercel.app/api/embed/Selamkd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
