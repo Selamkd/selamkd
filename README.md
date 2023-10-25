@@ -22,7 +22,7 @@ Languages and tools I use 🧚🏾‍♀️
 <br>
 
 
-<img src="https://myreadme.vercel.app/api/embed/Selamkd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 
           
