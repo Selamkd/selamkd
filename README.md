@@ -20,7 +20,7 @@ Languages and tools I use 🧚🏾‍♀️
 
 <br>
 <br>
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selamkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
