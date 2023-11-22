@@ -10,6 +10,7 @@ When I'm not coding, I will either be drawing/painting or playing video games, t
 <br>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&theme=tokyonight)
  [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
 <br>
 <br>
@@ -20,7 +21,6 @@ Languages and tools I use 🧚🏾‍♀️
 
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&theme=tokyonight)
 
           
           
