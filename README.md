@@ -1,7 +1,7 @@
 # Hi there 👋🏾 I'm Selam 
-I'm a developer in the making with a passion for front end design but also just coding in general! <br>
+I'm a developer in the making with a passion for front-end design but also just coding in general! <br>
 
-I like to experiment with code as much as I can in order to learn new ways to interact with it.<br>
+I like to experiment with code as much as I can to learn new ways to interact with it.<br>
 
 When I'm not coding, I will either be drawing/painting or playing video games, the latter of which inspired some of my projects.<br>
 <br>
@@ -11,6 +11,7 @@ When I'm not coding, I will either be drawing/painting or playing video games, t
 
  [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
  <br>
+ <be>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <be>
 <be>
