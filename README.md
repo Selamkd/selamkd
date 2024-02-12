@@ -11,10 +11,12 @@ When I'm not coding, I will either be drawing/painting or playing video games, t
 
  [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
  <br>
- <be>
+ <br>
+ 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<be>
-<be>
+
+<br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Selamkd&theme=dark&hide_border=true&border_radius=5&exclude_days=Sat)](https://git.io/streak-stats)
 
