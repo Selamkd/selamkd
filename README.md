@@ -13,7 +13,7 @@ When I'm not coding, I will either be drawing/painting or playing video games, t
  <br>
  <br>
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selamkd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <br>
