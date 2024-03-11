@@ -1,5 +1,5 @@
 # Hi there 👋🏾 I'm Selam 
-I'm a developer in the making with a passion for front-end design but also just coding in general! <br>
+I'm a Full-stack developer with a passion for front-end design but also just coding in general! <br>
 
 I like to experiment with code as much as I can to learn new ways to interact with it.<br>
 
