@@ -28,7 +28,8 @@ Visit my Portfolio: https://selam-portfolio.vercel.app/
 <br>
  
 Languages and tools I use 🧚🏾‍♀️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,git,java,jest,mysql,nextjs,nodejs,npm,react,supabase,tailwind,ts,vscode,vitest,)](https://skillicons.dev)
           
           
           
