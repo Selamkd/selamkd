@@ -28,9 +28,7 @@ Visit my Portfolio: https://selam-portfolio.vercel.app/
 <br>
  
 Languages and tools I use 🧚🏾‍♀️
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  
-   <i class="devicon-tailwindcss-original colored"></i>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
           
           
           
