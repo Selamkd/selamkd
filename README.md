@@ -6,7 +6,7 @@ I like to experiment with code as much as I can to learn new ways to interact wi
 
 When I'm not coding, I will either be drawing/painting or playing video games, the latter of which inspired some of my projects.<br>
 
-My Portfolio: https://selam-portfolio.vercel.app/
+Visit my Portfolio: https://selam-portfolio.vercel.app/
 <br>
 - 🔭 I’m currently working on: My portfolio
 - 🌱 I’m currently learning: Java
