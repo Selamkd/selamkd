@@ -2,10 +2,6 @@
 
 I'm a Full-stack developer with a passion for front-end design but also just coding in general! <br>
 
-I like to experiment with code as much as I can to learn new ways to interact with it.<br>
-
-When I'm not coding, I will either be drawing/painting or playing video games, the latter of which inspired some of my projects.<br>
-
 Visit my Portfolio: https://www.selamkdararsa.com/
 <br>
 - 🔭 I’m currently working on: My portfolio
