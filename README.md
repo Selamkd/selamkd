@@ -14,8 +14,7 @@ Visit my Portfolio: https://www.selamkdararsa.com/
  
 
 
-<br>
-<br>
+
 
    ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Selamkd&theme=nord&hide_border=true)
 
