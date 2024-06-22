@@ -8,7 +8,7 @@ Visit my Portfolio: https://www.selamkdararsa.com/
 - 🌱 I’m currently learning: Java
 <br>
 
- [![Codewars Badge](https://www.codewars.com/users/Selamkd/badges/large)](https://www.codewars.com/users/Selamkd)
+
  <br>
  <br>
  
@@ -17,7 +17,7 @@ Visit my Portfolio: https://www.selamkdararsa.com/
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Selamkd&theme=dark&hide_border=true&border_radius=5&exclude_days=Sat)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=Selamkd&theme=nord&hide_border=true
 
 
 <br>
