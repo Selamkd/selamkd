@@ -4,7 +4,7 @@ I'm a Full-stack developer with a passion for front-end design but also just cod
 
 Visit my Portfolio: https://www.selamkdararsa.com/
 <br>
-- 🔭 I’m currently working on: My portfolio
+- 🔭 I’m currently working on: To do system using Spring
 - 🌱 I’m currently learning: Java
 <br>
 
@@ -17,7 +17,7 @@ Visit my Portfolio: https://www.selamkdararsa.com/
 <br>
 <br>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Selamkd&theme=nord&hide_border=true)
+            ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Selamkd&theme=nord&hide_border=true)
 
 
 <br>
