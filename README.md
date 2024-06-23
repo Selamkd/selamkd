@@ -4,7 +4,7 @@ I'm a Full-stack developer with a passion for front-end design but also just cod
 
 Visit my Portfolio: https://www.selamkdararsa.com/
 <br>
-- 🔭 I’m currently working on: Developing a Full-stack productivity tool using Spring
+- 🔭 I’m currently working on: a Full-stack productivity tool using Spring
 - 🌱 I’m currently learning: Spring Boot
 <br>
 
